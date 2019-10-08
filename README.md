@@ -1,0 +1,2 @@
+# binarybot
+Binary bot
